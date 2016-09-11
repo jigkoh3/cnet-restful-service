@@ -1,0 +1,25 @@
+{
+  "name": "restful-service",
+  "version": "0.0.1",
+  "description": "restful service template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jigkoh3/cnet-restful-service.git"
+  },
+  "keywords": [
+    "restful-service"
+  ],
+  "author": "theerasak tubrit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jigkoh3/cnet-restful-service/issues"
+  },
+  "homepage": "https://github.com/jigkoh3/cnet-restful-service#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
