@@ -8,7 +8,7 @@ var helloworld = function(req,res,next){
 }
 
 //use middleware
-//app.use('/',helloworld);
+app.use('/',helloworld);
 
 //config server port
 app.listen(3000);
